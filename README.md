@@ -1,1 +1,0 @@
-# my_restrict-forward-bot
