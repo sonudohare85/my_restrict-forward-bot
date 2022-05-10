@@ -1,5 +1,3 @@
-#Github.com/Vasusen-code
-
 import os
 from .. import bot as Drone
 from telethon import events, Button
