@@ -1,3 +1,5 @@
+#Github.com/Vasusen-code
+
 from pyrogram import Client
 
 from telethon.sessions import StringSession
