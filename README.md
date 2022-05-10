@@ -55,7 +55,7 @@ Deploy your bot on `Okteto`
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/sonudohare85/SaveRestrictedContentBot/main">
+<a href="https://heroku.com/deploy?template=https://github.com/sonudohare85/SaveRestrictedContentBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
