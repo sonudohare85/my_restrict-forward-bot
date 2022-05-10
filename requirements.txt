@@ -5,4 +5,4 @@ cryptg
 tgcrypto
 telethon
 pyrogram
-python-decouple
+
