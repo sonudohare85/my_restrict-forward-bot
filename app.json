@@ -8,7 +8,7 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/sonudohare85/save-restricted-v-4",
+    "repository": "https://github.com/sonudohare85/my_restrict_forward_bot",
     "website": "",
     "success_url": "https://t.me/DroneBots",
     "env": {
