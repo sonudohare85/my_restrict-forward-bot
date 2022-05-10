@@ -19,7 +19,7 @@ AUTH = config("AUTH", default=None, cast=int)
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
 
-userbot = TelegramClient(StringSession(SESSION) , API_ID, API_HASH)
+userbot = Client(saverestricted",
     session_name=SESSION, 
     api_hash=API_HASH, 
     api_id=API_ID)
