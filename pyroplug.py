@@ -1,3 +1,5 @@
+#Github.com/sonudohare85
+
 import asyncio, time, os
 
 from .. import Bot, bot
