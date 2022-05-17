@@ -1,4 +1,4 @@
-#Github.com/Vasusen-code
+#Github.com/sonudohare85
 
 import os
 from .. import bot as Drone
