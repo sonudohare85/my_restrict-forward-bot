@@ -1,3 +1,5 @@
+#Github.com/sonudohare85
+
 from pyrogram import Client
 
 from telethon.sessions import StringSession
